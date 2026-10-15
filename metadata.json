@@ -1,0 +1,6 @@
+{
+  "name": "JobTrack",
+  "description": "Production-grade internship and job application tracker with kanban pipelines, interview logs, timeline history, and career analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
